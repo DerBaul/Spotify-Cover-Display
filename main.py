@@ -3,7 +3,6 @@ import time
 import requests
 from tkinter import *
 from pprint import pprint
-import os
 from PIL import ImageTk, Image  
 
 
